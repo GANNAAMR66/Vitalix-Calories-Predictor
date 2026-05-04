@@ -174,13 +174,13 @@ asset/project_demo_video.mp4
 
 **Input:**
 
-* Gender: Male
-* Age: 25
-* Height: 175 cm
-* Weight: 70 kg
-* Duration: 30 min
-* Heart Rate: 120 bpm
-* Body Temp: 37°C
+* Gender: Female
+* Age: 20
+* Height: 169 cm
+* Weight: 68 kg
+* Duration: 12 min
+* Heart Rate: 88 bpm
+* Body Temp: 36.5°C
 
 ![Result](asset/result.jpg)
 
@@ -188,7 +188,7 @@ asset/project_demo_video.mp4
 **Output:**
  Predicted Calories Burned: *~230 kcal*
 
-![JSON Output](asset/images/json_outpu.jpg)
+![JSON Output](asset/json_outpu.jpg)
 د
 ---
 
