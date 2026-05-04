@@ -126,9 +126,10 @@ Calories-Prediction-AI/
 │   └── calories_model.json  # Trained ML model
 │
 ├── assets/
-│   ├── images/              # Screenshots
-│   └── demo/                # Demo video
-│
+│   ├──  json_outpu.jpg            # Screenshots
+│   ├──  result.jpg.jpg             
+|   └──  project_demo_video.mp4           # Demo video
+│ 
 ├── gui_output.json          # Prediction logs
 ├── requirements.txt         # Dependencies
 └── README.md                # Documentation
@@ -179,13 +180,13 @@ assets/project_demo_video.mp4
 * Heart Rate: 120 bpm
 * Body Temp: 37°C
 
-![Result](assets/result.png)
+![Result](assets/result.jpg)
 
 
 **Output:**
  Predicted Calories Burned: *~230 kcal*
 
-![JSON Output](assets/images/json_output.png)
+![JSON Output](assets/images/json_outpu.jpg)
 د
 ---
 
