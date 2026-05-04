@@ -179,14 +179,14 @@ asset/project_demo_video.mp4
 * Height: 169 cm
 * Weight: 68 kg
 * Duration: 12 min
-* Heart Rate: 88 bpm
+* Heart Rate: 89 bpm
 * Body Temp: 36.5°C
 
 ![Result](asset/result.jpg)
 
 
 **Output:**
- Predicted Calories Burned: *~230 kcal*
+ Predicted Calories Burned: *~38.15 kcal*
 
 ![JSON Output](asset/json_outpu.jpg)
 د
